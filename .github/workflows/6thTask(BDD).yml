@@ -25,4 +25,4 @@ jobs:
       - name: Test
         run: ./SquareEquationTest ./SquareEquationLib/bin/Debug/net7.0/SquareEquationLib.dll
       - name: Unit-test and coverage
-        run: dotnet test BDD /p:CollectCoverage=true /p:ThresholdType=line /p:Threshold=100
+        run: dotnet test BDD/BDD.Coverage.sln /p:CollectCoverage=true /p:ThresholdType=line /p:Threshold=100

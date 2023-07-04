@@ -27,4 +27,4 @@ jobs:
       - name: Build
         run: dotnet build
       - name: Unit-test and coverage
-        run: dotnet test BDD /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura
+        run: dotnet test BDD /p:CollectCoverage=true /p:ThresholdType=line /p:Threshold=100

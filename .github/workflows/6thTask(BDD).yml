@@ -24,7 +24,9 @@ jobs:
 
       - name: Test
         run: ./SquareEquationTest ./SquareEquationLib/bin/Debug/net7.0/SquareEquationLib.dll
-      - name: Build
-        run: dotnet build
-      - name: Unit-test and coverage
-        run: dotnet test BDD /p:CollectCoverage=true /p:ThresholdType=line /p:Threshold=100
+      - name: Unit-Test
+        run: dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=cobertura
+      - name: Codecov
+        uses: codecov/codecov-action@v3
+        with: 
+          token: 82e946ce-cc82-4d39-8c53-19cd842ee593

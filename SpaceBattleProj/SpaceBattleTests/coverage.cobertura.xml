@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="1" branch-rate="1" version="1.9" timestamp="1688542749" lines-covered="13" lines-valid="13" branches-covered="14" branches-valid="14">
+  <sources>
+    <source>/</source>
+  </sources>
+  <packages>
+    <package name="SpaceBattleLib" line-rate="1" branch-rate="1" complexity="14">
+      <classes>
+        <class name="SpaceBattleLib.SpaceBattle" filename="home/timofey/OmSTU-AMCS-SummerPractice2023/OmSTU-AMCS-SummerPractice2023/SpaceBattleProj/SpaceBattleLib/SpaceBattle.cs" line-rate="1" branch-rate="1" complexity="14">
+          <methods>
+            <method name="FindingSpaceshipCoordinates" signature="(System.ValueTuple`2&lt;System.Double,System.Double&gt;,System.ValueTuple`2&lt;System.Double,System.Double&gt;,System.Boolean)" line-rate="1" branch-rate="1" complexity="14">
+              <lines>
+                <line number="5" hits="4" branch="False" />
+                <line number="6" hits="25" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="74" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="7" hits="7" branch="False" />
+                <line number="8" hits="8" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="42" type="jump" coverage="100%" />
+                    <condition number="57" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="9" hits="6" branch="False" />
+                <line number="10" hits="18" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="160" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="11" hits="5" branch="False" />
+                <line number="12" hits="6" branch="True" condition-coverage="100% (4/4)">
+                  <conditions>
+                    <condition number="123" type="jump" coverage="100%" />
+                    <condition number="139" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="13" hits="4" branch="False" />
+                <line number="14" hits="3" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="170" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="15" hits="1" branch="False" />
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="4" branch="False" />
+            <line number="6" hits="25" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="74" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="7" hits="7" branch="False" />
+            <line number="8" hits="8" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="42" type="jump" coverage="100%" />
+                <condition number="57" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="9" hits="6" branch="False" />
+            <line number="10" hits="18" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="160" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="11" hits="5" branch="False" />
+            <line number="12" hits="6" branch="True" condition-coverage="100% (4/4)">
+              <conditions>
+                <condition number="123" type="jump" coverage="100%" />
+                <condition number="139" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="13" hits="4" branch="False" />
+            <line number="14" hits="3" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="170" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="15" hits="1" branch="False" />
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

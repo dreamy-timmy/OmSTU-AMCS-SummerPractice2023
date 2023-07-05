@@ -1,0 +1,139 @@
+{
+  "SpaceBattleLib.dll": {
+    "/home/timofey/OmSTU-AMCS-SummerPractice2023/OmSTU-AMCS-SummerPractice2023/SpaceBattleProj/SpaceBattleLib/SpaceBattle.cs": {
+      "SpaceBattleLib.SpaceBattle": {
+        "System.ValueTuple`2<System.Double,System.Double> SpaceBattleLib.SpaceBattle::FindingSpaceshipCoordinates(System.ValueTuple`2<System.Double,System.Double>,System.ValueTuple`2<System.Double,System.Double>,System.Boolean)": {
+          "Lines": {
+            "5": 4,
+            "6": 25,
+            "7": 7,
+            "8": 8,
+            "9": 6,
+            "10": 18,
+            "11": 5,
+            "12": 6,
+            "13": 4,
+            "14": 3,
+            "15": 1,
+            "16": 1,
+            "17": 1
+          },
+          "Branches": [
+            {
+              "Line": 6,
+              "Offset": 74,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 7
+            },
+            {
+              "Line": 8,
+              "Offset": 42,
+              "EndOffset": 44,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 8,
+              "Offset": 42,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 8,
+              "Offset": 57,
+              "EndOffset": 59,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 8,
+              "Offset": 57,
+              "EndOffset": 65,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 6
+            },
+            {
+              "Line": 6,
+              "Offset": 74,
+              "EndOffset": 76,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 3
+            },
+            {
+              "Line": 10,
+              "Offset": 160,
+              "EndOffset": 108,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 5
+            },
+            {
+              "Line": 12,
+              "Offset": 123,
+              "EndOffset": 125,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 4
+            },
+            {
+              "Line": 12,
+              "Offset": 123,
+              "EndOffset": 134,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 1
+            },
+            {
+              "Line": 12,
+              "Offset": 139,
+              "EndOffset": 141,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 12,
+              "Offset": 139,
+              "EndOffset": 147,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 4
+            },
+            {
+              "Line": 10,
+              "Offset": 160,
+              "EndOffset": 162,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 2
+            },
+            {
+              "Line": 14,
+              "Offset": 170,
+              "EndOffset": 172,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 1
+            },
+            {
+              "Line": 14,
+              "Offset": 170,
+              "EndOffset": 178,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}
